@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "email": "admin@admin.com",
+            "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+        }
+    ],
+    "payments": [
+        {
+            "user_id": "admin",
+            "amount": 0.04,
+            "description": "test payment",
+            "date": "2025-05-20 21:00:56"
+        }
+    ]
+}
